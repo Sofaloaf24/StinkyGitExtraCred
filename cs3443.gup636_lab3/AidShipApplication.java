@@ -15,5 +15,6 @@ public class AidShipApplication extends Application {
         stage.setTitle("Hello!");
         stage.setScene(scene);
         stage.show();
+        System.out.println("Hello! I dont know");
     }
 }
