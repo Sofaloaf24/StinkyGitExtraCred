@@ -1,1 +1,1 @@
-#this is purely for the extra credit
+Hello, fellow group members! In this repository, we will be completing the Team GitHub Workflow Practice. In this assignment, we are tasked with creating a repository, having each member clone it, creating a new branch, making a modification to the code, committing and pushing, then pulling and merging updates. We will then record the testing session, including how we collaborate, each person performing their part of the workflow, and the final version.  
